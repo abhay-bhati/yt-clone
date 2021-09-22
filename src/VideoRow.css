@@ -1,0 +1,32 @@
+.videoRow{
+    display:flex;
+    margin-left:24px;
+    margin-top:18px
+}
+.videoRow__thumbnail > img{
+    height:200px;
+    width:360px;
+    margin-right:20px;
+}
+.videoRow__info > h3{
+    font-weight: 500;
+}
+.videoRow__info > p{
+    font-size:14px;
+    color:gray;
+}
+.videoRow__info > div{
+    display:flex;
+    align-items: center;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.videoRow__info__avatar{
+    height:25px !important;
+    width:25px !important;
+    margin-right:10px;
+}
+.videoRow__info > div > p{
+    font-size:14px;
+    color:gray;
+}

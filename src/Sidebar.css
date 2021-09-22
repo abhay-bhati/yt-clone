@@ -1,0 +1,12 @@
+.sidebar{
+    flex:0.18;
+    margin-top:10px;
+}
+
+
+
+.sidebar__linebreak{
+    margin:15px 0px;
+    margin-right:15px;
+    
+}

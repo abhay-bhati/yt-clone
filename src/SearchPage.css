@@ -1,0 +1,48 @@
+.searchPage__channelInfo{
+    display:flex;
+    padding-left:10px;
+    align-items: center;
+    margin-top:20px;
+    margin-left:10px;
+}
+
+.searchPage{
+    background-color: #f2f2f2;;
+    flex:0.82;
+}
+
+.searchPage__channelName{
+    font-weight: 500;
+    font-size:20px;
+}
+.searchPage__avatar{
+    margin-right:10px;
+    height:100px !important;
+    width:100px !important;
+}
+.searchPage__channelSubs{
+    color:rgb(94, 93, 93);
+}
+.searchPage__filter{
+    display:flex;
+    color:rgb(99, 98, 98);
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:10px;
+
+}
+.searchPage__filter__icon{
+    margin-right:12px;
+}
+.searchPage__filter > h4{
+    font-weight: 500;
+}
+.searchPage > hr{
+    margin-left:20px;
+    height: 1px;
+    border:0;
+    background-color: lightgray;
+}
+.searchPage__videoRows{
+    padding-top:24px;
+}
