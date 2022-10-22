@@ -15,7 +15,7 @@ on:
 
 jobs:
   deploy:
-    # Operating system to run job on
+    # Operating system to run job o
     runs-on: ubuntu-latest
     # Steps in job
     steps:
