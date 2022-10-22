@@ -27,7 +27,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 16.x
-      # Run npm install and build on our code
+      # Run npm install and build on our cod
       - run: npm install
       - run: npm run build
       # Deploy to Netlify using our production secrets
