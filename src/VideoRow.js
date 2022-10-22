@@ -7,7 +7,7 @@ function VideoRow({ image, title, views, timestamp, image2, channel, desc }) {
   return (
     <div className="videoRow">
       <div className="videoRow__thumbnail">
-        <img src={image} alt="Random" />
+        <img src={image} alt="Rando" />
       </div>
       <div className="videoRow__info">
         <h3>{title}</h3>
