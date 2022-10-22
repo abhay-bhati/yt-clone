@@ -1,0 +1,8 @@
+# name of workflow
+name: "Test Workflow"
+
+# when workflow is triggered
+on:
+  push:
+    branches:
+      - "main"
