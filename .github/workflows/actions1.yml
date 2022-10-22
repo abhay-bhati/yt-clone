@@ -1,8 +1,7 @@
 # name of workflow
-name: "Test Workflow"
+name: "yt-clone"
 
 # when workflow is triggered
 on:
   push:
-    branches:
-      - "main"
+    branches: [main]
