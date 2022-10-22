@@ -4,5 +4,4 @@ name: "yt-clone"
 # when workflow is triggered
 on:
   push:
-    branches:
-      - main
+    branches: [main]
